@@ -18,6 +18,6 @@ Acesse o link https://www.apachefriends.org/download.html e siga as instruções
 ![alt text](05.PNG)
 
 
-# Parabéns você instalou um servidor apache na usa máquina virtual com sucesso!
+# Parabéns você instalou um servidor apache na sua máquina virtual com sucesso!
 
 
